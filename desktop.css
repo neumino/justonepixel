@@ -93,12 +93,3 @@ a{
 a:hover{
     border-bottom: 1px solid #000;
 }
-
-#more{
-    margin: 13% auto 0px auto;
-    display: inline-block;
-    vertical-align: middle;
-    height: 500px;
-    width: 800px;
-    text-align: left;
-}
