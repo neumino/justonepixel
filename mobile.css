@@ -9,6 +9,7 @@ html, body{
     min-height: 0px;
 }
 .half-background{
+    display: block;
     background: #7E9FBF;
     height: 150px;
     margin: 0px;
