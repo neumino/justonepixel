@@ -29,6 +29,7 @@ body{
     padding: 0px;
     background: #F3F6FF;
     font-family: "Open Sans";
+    font-size: 14px;
 }
 .half-background{
     background: #7E9FBF;
@@ -87,7 +88,6 @@ li{
 }
 a{
     color: #000;
-    font-weight: bold;
     text-decoration: none;
     border-bottom: 1px dotted #000;
 }
